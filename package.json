@@ -10,7 +10,7 @@
     "customize-cra": "^0.5.0",
     "echarts": "^4.2.1",
     "echarts-for-react": "^2.0.15-beta.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
     "lodash": "^4.17.15",
